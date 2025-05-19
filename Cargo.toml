@@ -1,0 +1,8 @@
+[package]
+name = "didit"
+version = "0.1.0"
+edition = "2024"
+description = "A clipboard manager inspired by Ditto"
+license = "GPL-3.0"
+
+[dependencies]
